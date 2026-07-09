@@ -3,7 +3,7 @@
 Reproducibility materials for the paper **"Benchmarking Goodness-of-Fit and Calibration Algorithms
 for Logistic Regression Classifiers: A Large-Scale Simulation Study under Sparse Data."**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21286172.svg)](https://doi.org/10.5281/zenodo.21286172)
 
 > **DOI:** minted automatically by Zenodo when the first GitHub release is published (replace `XXXXXXX`
 > above and in `CITATION.cff` / `.zenodo.json` once assigned).

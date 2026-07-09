@@ -13,7 +13,7 @@ version: "1.0.0"
 date-released: "2026-07-10"
 license: MIT
 repository-code: "https://github.com/ebrahimkhaled/logistic-gof-benchmark"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.21286172"
 keywords:
   - goodness-of-fit
   - logistic regression
