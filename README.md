@@ -5,8 +5,7 @@ for Logistic Regression Classifiers: A Large-Scale Simulation Study under Sparse
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21286172.svg)](https://doi.org/10.5281/zenodo.21286172)
 
-> **DOI:** minted automatically by Zenodo when the first GitHub release is published (replace `XXXXXXX`
-> above and in `CITATION.cff` / `.zenodo.json` once assigned).
+> **DOI:** [10.5281/zenodo.21286172](https://doi.org/10.5281/zenodo.21286172) — the concept DOI, always resolving to the latest archived version.
 
 This repository contains the simulation drivers, aggregated results, real-data example, and figure code
 needed to reproduce every number and figure in the paper. It complements the R package
