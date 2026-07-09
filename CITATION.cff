@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper and this archived record."
+title: "logistic-gof-benchmark: reproducibility materials for a large-scale goodness-of-fit benchmark for logistic regression under sparse data"
+type: dataset
+authors:
+  - family-names: "Ebrahim"
+    given-names: "Ebrahim Khaled"
+    orcid: "https://orcid.org/0009-0006-7839-8778"
+    affiliation: "Department of Applied Statistics, Faculty of Business, Alexandria University, Egypt"
+  - family-names: "El-Kotory"
+    given-names: "Ahmed"
+version: "1.0.0"
+date-released: "2026-07-10"
+license: MIT
+repository-code: "https://github.com/ebrahimkhaled/logistic-gof-benchmark"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - goodness-of-fit
+  - logistic regression
+  - calibration
+  - sparse data
+  - simulation benchmark
+  - Hosmer-Lemeshow
+preferred-citation:
+  type: article
+  title: "Benchmarking Goodness-of-Fit and Calibration Algorithms for Logistic Regression Classifiers: A Large-Scale Simulation Study under Sparse Data"
+  authors:
+    - family-names: "Ebrahim"
+      given-names: "Ebrahim Khaled"
+      orcid: "https://orcid.org/0009-0006-7839-8778"
+    - family-names: "El-Kotory"
+      given-names: "Ahmed"
+  year: 2026
+  journal: "Statistical Learning and Data Science (under review)"

@@ -1,0 +1,7 @@
+# large per-replication p-value matrices (regenerate via R/01; archived on Zenodo)
+pvalues_*.csv
+# R / build artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
